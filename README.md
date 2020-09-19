@@ -4,9 +4,11 @@
 
 ### Description
 
-*An **automatic billing system** for providing an ease to the customers while shopping and reducing the manual labour of the supermarkets.*
-
-*The main motive behind introducing this technology is increasing the sales and providing positive feedbacks and preventing people from crowd and saving lots of time.*
+*An **automatic billing system** for providing an ease to the customers to bill thir products while shopping,Hence this will:-
+-reducing the manual labour of the supermarkets.
+-insure social destencing,and wil prevent people from making croud during this pendemic.
+-increasing the sales and providing positive feedbacks for companies.
+-will save lots of time by overriding the old inline billing system.
 
 This app demonstrates how to build an end-to-end user experience between customer and Mall.
 
@@ -43,10 +45,9 @@ The goal of this app is to showcase an automatic billing machine. The following 
   - Scandit Barcode Scanner SDK for connecting and collecting information from barcode
 
 #### App
+  - Dart language
   - Flutter for frontened
   - Firebase for backened
-  
-  
   
 
 ### Installation
@@ -79,7 +80,5 @@ The goal of this app is to showcase an automatic billing machine. The following 
 13.	During checkout security system detects if any tags not removed and alarm beeps otherwise successful checkout.
 
 ### Team Members
-- Abhishek Yadav
-- Pawan Kushwaha
-- Nikhil Shukla 
-- Priyanka Rai
+- Abhinash Kumar Yadav
+- Abhishek Kumar Yadav
