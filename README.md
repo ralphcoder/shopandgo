@@ -1,5 +1,5 @@
 # Shopandgo
-<img src="https://github.com/ralphcoder/Parallel-Inertia/blob/master/readme%20assets/one.gif" alt="alt text" width="300ppx" height="200px">  <img src="https://github.com/coderaky/shopandgo/blob/modification/images/Shopandgo%20icon.png" alt="alt text" width="250ppx" height="200px">  <img src="https://github.com/ralphcoder/Parallel-Inertia/blob/master/readme%20assets/ezgif.com-rotate.gif" alt="alt text" width="300ppx" height="200px">
+<img src="https://github.com/ralphcoder/Parallel-Inertia/blob/master/readme%20assets/one.gif" alt="alt text" width="300ppx" height="200px">  <img src="https://github.com/coderaky/shopandgo/blob/modification/images/Shopandgo%20icon.png" alt="alt text" width="250ppx" height="150px">  <img src="https://github.com/ralphcoder/Parallel-Inertia/blob/master/readme%20assets/ezgif.com-rotate.gif" alt="alt text" width="300ppx" height="200px">
 ## ---------🖖Automatic billing machine🖖---------
 
 ### Description
