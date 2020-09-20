@@ -53,11 +53,11 @@ The goal of this app is to showcase an automatic billing machine. The following 
   - Flutter for frontened
   - Firebase for backened
   
-<img src="https://github.com/ralphcoder/shopandgo/blob/master/images/a.png" alt="alt text" width="180ppx" height="300px">&nbsp;&nbsp; <img src="https://github.com/ralphcoder/shopandgo/blob/master/images/b.png" alt="alt text" width="180ppx" height="300px">&nbsp;&nbsp;  <img src="https://github.com/ralphcoder/shopandgo/blob/master/images/c.png" alt="alt text" width="180ppx" height="300px">&nbsp;&nbsp;
+<img src="https://github.com/ralphcoder/shopandgo/blob/master/images/a.png" alt="alt text" width="180ppx" height="300px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="https://github.com/ralphcoder/shopandgo/blob/master/images/b.png" alt="alt text" width="180ppx" height="300px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <img src="https://github.com/ralphcoder/shopandgo/blob/master/images/c.png" alt="alt text" width="180ppx" height="300px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </br>
-<img src="https://github.com/ralphcoder/shopandgo/blob/master/images/d.png" alt="alt text" width="180ppx" height="300px"> 
-<img src="https://github.com/ralphcoder/shopandgo/blob/master/images/e.png" alt="alt text" width="180ppx" height="300px"> 
-<img src="https://github.com/ralphcoder/shopandgo/blob/master/images/f.png" alt="alt text" width="180ppx" height="300px"> 
+<img src="https://github.com/ralphcoder/shopandgo/blob/master/images/d.png" alt="alt text" width="180ppx" height="300px"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/ralphcoder/shopandgo/blob/master/images/e.png" alt="alt text" width="180ppx" height="300px"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/ralphcoder/shopandgo/blob/master/images/f.png" alt="alt text" width="180ppx" height="300px"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 ### Installation
 #### Real System
