@@ -50,6 +50,7 @@ The goal of this app is to showcase an automatic billing machine. The following 
   - Flutter for frontened
   - Firebase for backened
   
+<img src="https://github.com/ralphcoder/Parallel-Inertia/blob/master/readme%20assets/one.gif" alt="alt text" width="300ppx" height="200px">  
 
 ### Installation
 #### Real System
