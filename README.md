@@ -16,7 +16,7 @@ This app demonstrates how to build an end-to-end user experience between custome
 The goal of this app is to showcase an automatic billing machine. The following use cases are covered:
 * Barcode detection - An end to end barcode scanning solution on the various products.
 
-<img src="images/live_barcode.gif" width="256"/>
+<img src="https://github.com/ralphcoder/shopandgo/blob/master/images/shopangogif.gif" width="256"/>
 
 ### Table of Contents
 
