@@ -4,12 +4,15 @@
 
 ### Description
 
-*An **automatic billing system** for providing an ease to the customers to bill thir products while shopping,Hence this will:-*
+*An **automatic billing system** for providing an ease to the customers to bill their products by themself while shopping,Hence this will:-*
 
-- Reducing the manual labour of the supermarkets.
-- Insure social destencing,and wil prevent people from making croud during this pendemic.
-- Increasing the sales and providing positive feedbacks for companies.
+- Reducing the manual labor of the supermarkets.
+- Insure social distancing, and will prevent people from making the crowd during this pandemic.
+- Increasing sales and providing positive feedback for companies.
 - Will save lots of time by overriding the old inline billing system.
+- Costomers with few items also has to stand in a queue which is really irritating.
+- People who are in a hurry tend to spend less time buying things as they also have to add the time wasted during the billing process in their schedule.
+- Seeing the current scenario maintenance of social distancing will be a concern for the future..
 
 This app demonstrates how to build an end-to-end user experience between customer and Mall.
 
