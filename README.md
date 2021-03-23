@@ -9,7 +9,7 @@
 "Oh, the Codeforces contest has started and I am still waiting for my turn for billing"😩 - it's n there any solution for this🤔, and suddenly an idea stricks my mind💡. Why not customers bill their products themselves. We all have faced this scenario in shopping complexes when we have some urgent work but have to wait in long lines for our turn. So we have made the "automatic billing system"🛒 which will:-
 
 
-- Reducing the manual labor of the supermarket.
+- Reduces the manual labor of the supermarket.
 - Insure social distancing, and will prevent people from making the crowd during this pandemic.
 - Increasing sales and providing positive feedback for companies.
 - Will save lots of time by overriding the old inline billing system.
