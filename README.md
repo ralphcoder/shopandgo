@@ -4,7 +4,7 @@
 
 ### Description
 
-*An **automatic billing system** 🛒 for providing an ease to the customers to bill their products by themself while shopping*
+*An **automatic billing system** 🛒 for providing an ease to the customers to bill their products by themself while shopping.*
 
 "Oh, the Codeforces contest has started and I am still waiting for my turn for billing"😩 - it's n there any solution for this🤔, and suddenly an idea stricks my mind💡. Why not customers bill their products themselves. We all have faced this scenario in shopping complexes when we have some urgent work but have to wait in long lines for our turn. So we have made the "automatic billing system"🛒 which will:-
 
